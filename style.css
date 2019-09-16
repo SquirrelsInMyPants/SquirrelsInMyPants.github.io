@@ -26,3 +26,9 @@ p.header {
 b {
     color: #D8BA3B;
 }
+
+.footer {
+    font-size: 12px;
+    color: #721630;
+    text-align: center;
+}
