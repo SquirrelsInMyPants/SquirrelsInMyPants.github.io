@@ -1,0 +1,28 @@
+body {
+    direction: rtl;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #271A22;
+    color: #FFF;
+    font-size: 32px;
+}
+
+.header {
+    text-align: center;
+}
+
+h1.header {
+    color: #D8BA3B;
+    margin-bottom: 8px;
+}
+
+p.header {
+    margin-top: 8px;
+}
+
+.agenda {
+    margin: 32px;
+}
+
+b {
+    color: #D8BA3B;
+}
